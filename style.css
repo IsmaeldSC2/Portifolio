@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    border: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    box-sizing: border-box;
+    color: white;
+}
+
+.titulo-destaque{
+    color: #22D4FD;
+}
+
+.apresentacao{
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px
+}
+
+.apresentacao__conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column; 
+    gap: 40px; 
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+    font-family: "Krona One", sans-serif;
+}
+
+.apresentacao__conteudo__paragrafo{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.apresentacao__links{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+   
+   
+}
+
+.apresentacao__links__link{
+
+   background-color: #22D4FD;
+   text-align: center;
+   border-radius: 16px;
+   font-size: 18px;
+   padding: 16px 32px;
+   text-decoration: none;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 600;
+   color:black;
+ 
+
+}
+/* Linha 61 (ou a próxima linha vazia) */
+.apresentacao img {
+    /* Define a largura e altura exatas do Figma (488px x 550px) */
+    width: 488px; 
+    height: 550px; 
+}
