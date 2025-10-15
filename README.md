@@ -6,7 +6,7 @@ Portfólio pessoal desenvolvido durante minha formação Front-end pela [Alura](
 Este projeto foi criado com **HTML5** e **CSS3**, aplicando conceitos de **Flexbox**, **responsividade**, **variáveis CSS** e **estrutura semântica**.
 
 🔗 **Acesse o projeto online:**  
-➡️ [https://ismaeldsc2.github.io/Portfolio/](https://ismaeldsc2.github.io/Portfolio/)
+➡️ [https://ismaeldsc2.github.io/Portfolio/](https://ismaeldsc2.github.io/Portifolio/)
 
 ---
 
